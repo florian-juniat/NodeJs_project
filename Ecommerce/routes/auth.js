@@ -6,7 +6,7 @@ var mongo = require('mongodb');
 var {PythonShell} = require('python-shell')
 
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb+srv://florian:ragondin@ecommerce.jrfnd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+var url = "fakeUrl"
 
 
 
