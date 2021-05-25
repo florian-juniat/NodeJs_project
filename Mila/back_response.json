@@ -1,0 +1,26 @@
+{
+    "on_success_array": {
+        "success": true,
+        "message": "success_message",
+        "data_type": "array",
+        "data" : []
+    },
+    "on_success_json": {
+        "success": true,
+        "message": "success_message",
+        "data_type": "json",
+        "data": {}
+    },
+    "on_success_no_data": {
+        "success": true,
+        "message": "success_message",
+        "data_type": null,
+        "data": null
+    },
+    "on_error": {
+        "success": false,
+        "message": "error_message",
+        "error": [],
+        "status": "int"
+    }
+}

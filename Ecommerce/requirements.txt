@@ -1,0 +1,6 @@
+surprise
+pandas
+numpy
+pymongo
+pymongo[srv]
+dnspython
